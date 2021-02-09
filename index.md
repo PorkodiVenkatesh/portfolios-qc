@@ -4,7 +4,6 @@ Refer these following documents to generate your portfolio in RevPro.
 
 
 - #### [Portfolio Guidelines](./portfolio-guidelines.md)
-- #### [Tour to create portfolio](./create-portfolio.md)
 - #### [Portfolio Samples](./portfolio-samples.md)
 
 
