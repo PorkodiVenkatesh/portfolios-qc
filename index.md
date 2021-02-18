@@ -4,10 +4,10 @@ Refer to the documents in this site to generate your portfolio through RevPro. Y
 - [.NET Full Stack](./dotnet-guidelines.md)
 - [Salesforce CRM](./salesforce-guidelines.md)
 - [Pega](./pega-guidelines.md)
-   
-   
-   
-*Portfolio Gudilines for Bench/Returing Associates*  - You can refer to [this guidelines](./bench-guidelines.md) to update your portfolio.
-   
-   
+   \
+    \  
+   \
+*Bench/Returing Associatescrefer to the [Portfolio Guidelines](./bench-guidelines.md) to update your portfolio.*
+   \
+   \
 > *Feel free to email us at : [reachqc@revature.com](mailto:reachqc@revature.com) in case of any queries.*
