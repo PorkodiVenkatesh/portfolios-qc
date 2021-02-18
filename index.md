@@ -12,5 +12,5 @@ Refer to the documents in this site to generate your portfolio through RevPro. Y
      
     
       
-    \  
+     
 > *Feel free to email us at : [reachqc@revature.com](mailto:reachqc@revature.com) in case of any queries.*  
