@@ -1,21 +1,19 @@
+# Pega Training Track
 
-# Full Stack Java with Microservices Training Track
-
-Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines) and [Portfolio Samples](./javams-guidelines.md#portfolio-samples) to generate your portfolio through Revpro.
+Refer to the [Portfolio Guidelines](./pega-guidelines.md#portfolio-guidelines) and [Portfolio Samples](./pega-guidelines.md#portfolio-samples) to generate your portfolio through Revpro.
 
 ## Portfolio Guidelines
 
 1.  Portfolio starts with your name on the top left corner.
     
-2.  Add **Job Title** as **Software Developer** or **Software Engineer** or **Full stack Software Developer**.
+2.  Add **Job Title** as **Pega Systems Architect/Java Developer**.
     
 3.  **Industry equivalency** – Add your top 5 key skills that are relevant to your core technology stack and the equivalency in months for each skill.
-	- **Recommended Industry Equivalency Skills** - Java, SQL, JavaScript, TypeScript, Angular 2+, Spring Framework, Spring Data, Spring Boot, Spring MVC, Spring AOP, Hibernate, JDBC, DevOps, Microservices, JUnit, and AWS.
+	- **Recommended Industry Equivalency Skills** - Pega, Java, PostgreSQL, JDBC, Servlets, and JavaScript.
 	- All industry equivalencies should not be the same
 	- **HTML**, **CSS**, **Agile**, and **Git** are not allowed.
-	
     
-5.  **About** **Me**
+4.  **About** **Me**
     
     -   Focus on your personal story and educational background information, career goals, relevant work experience, professional experience and skills, and a summary of your Revature experience.
         
@@ -31,9 +29,10 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
     
     > **About Me Example:**
     > 
-    > _I am a full-stack Java software developer with recent experience building multi-tiered web applications. I went to school at X University where I pursued a Bachelor’s degree in Y. I recently changed career paths to enter the technology field because I learned how to program in Python during a class project diving into computational biology and I really enjoyed the process of coding. In a few years, my goal is to become a senior developer so that I can mentor others._
+    > _I am a Pega Certified System Architect. I utilized Pega to develop full case life cycles and created full-stack Java applications. I have also programmed projects using SQL, JavaScript, Web Technologies, C#, and Blueprint Scripting. I went to school at Southern Oregon University where I received a Bachelor of Science in Computer Science. IT just seems like the good fit for the skills I already have._
     > 
-    > _During my time at Revature, I’ve worked on several projects where I gained experience in both backend technologies (including Java, SQL, Spring framework, and microservice architecture) as well as frontend development (including HTML/CSS, JavaScript, and Angular). I also have experience with DevOps and using CI/CD pipelines, deploying to the AWS cloud. I really enjoy collaborative team environments where I can learn from others, and I have worked hard to improve my interpersonal and communication skills. For my latest project, I am the team lead which involves facilitating the daily standups and helping to resolve any blockers my teammates have. I look forward to applying all of my skills and prior experience in a position on your team._
+    > _During my time at Revature, I've built various projects applying Situational Layer Cake methodology and ECS techniques during the Pega design process. Throughout several projects I strengthened my skillset in designing software for Business process management (BPM), Digital process automation and customer relationship management (CRM). I have 11 years of experience leading and managing teams with constantly revolving rosters and a variety of skill levels in high-stress high stakes scenarios with limited time. I am skilled at planning and maintaining several projects simultaneously that may deploy either at the same time or separately and with or without my direct involvement. I look forward to integrating with your team and applying my skills and knowledge to streamline and improve your business processes._
+    > 
 
 5.  Uncheck '**Show on portfolio**' for email and contact number. Check-in '**Show globally**' for all these sections - Education & Certification, Skill Matrix, Work Experience, Other Experience, and Honors & Awards.
     
@@ -50,10 +49,10 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
     -   Add a **minimum of 5 categories and 6 sub-skills each**.
         
     -   Equivalency for each skill must be between **3-24 months**.
-        
-    -   It is mandatory to add **Microservices** as a category under the Skill Matrix.
+
+    -	It is mandatory to add **Pega** as a category under the Skill Matrix.
        
-    -   Check your capitalization of each technology or tool. Acronyms like AJAX or ORM should be in all caps, proper nouns like Java should be capitalized, compound words like DevOps should have each word capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
+    -   Check your capitalization of each technology or tool. Acronyms like UI or AJAX should be in all caps, proper nouns like Java should be capitalized, compound words like JavaScript should have each word capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
         
 8.  **Work** **Experiences**
     
@@ -97,6 +96,4 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
 
 Below you have Published Portfolio Samples for your reference. Please do not replicate the same sentences.
 
-- [Java MS with Angular](https://app.revature.com/profile/magnusjw/b8b8365efdf3c093d180fd768b5c379d) 
-- [Java MS with React](https://app.revature.com/profile/DavidLyu/cd498c6f7641d493f931c924bf79ffb9)   
-
+- [Pega SA](https://app.revature.com/profile/Jsteel/6da6bb3f3e87d8e85c767b3e9db8936f)
