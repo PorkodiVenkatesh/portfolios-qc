@@ -6,7 +6,7 @@ Refer to the documents in this site to generate your portfolio through RevPro. Y
 - [Pega](./pega-guidelines.md)
       
     \
-    \  
+      
     \
 *Bench/Returing Associatesc refer to the [Portfolio Guidelines](./bench-guidelines.md) to update your portfolio.*
      \  
