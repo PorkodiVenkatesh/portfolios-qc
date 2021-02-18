@@ -6,6 +6,7 @@ Refer to the documents in this site to generate your portfolio through RevPro. Y
 - [Pega](./pega-guidelines.md)
 
 
+*Gudilines for Bench/Returing Associates*  - You can refer to [this guidelines](./bench-guidlines.md] to update your portfolio.
 
 
 > *Feel free to email us at : [reachqc@revature.com](mailto:reachqc@revature.com) in case of any queries.*
