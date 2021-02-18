@@ -1,3 +1,4 @@
+```
 Refer to the documents in this site to generate your portfolio through RevPro. You can find the Portfolio Guidelines and Portfolio Samples by clicking on your Training Track.
 
 - [Full Stack Java with Microservices](./javams-guidelines.md)
@@ -5,7 +6,7 @@ Refer to the documents in this site to generate your portfolio through RevPro. Y
 - [Salesforce CRM](./salesforce-guidelines.md)
 - [Pega](./pega-guidelines.md)
 
----
+```
 
 *Portfolio Gudilines for Bench/Returing Associates*  - You can refer to [this guidelines](./bench-guidelines.md) to update your portfolio.
 
